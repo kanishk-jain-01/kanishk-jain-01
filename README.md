@@ -1,1 +1,1 @@
-# Just exploring the universe
+# Exploring the Universe
