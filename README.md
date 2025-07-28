@@ -1,6 +1,6 @@
 # 🚀 AI Engineer | GauntletAI Cohort 2
 
-Welcome to my GitHub portfolio! I'm passionate about building AI-powered applications that solve real-world problems. Below are some key projects that showcase my expertise in full-stack development, AI/ML engineering, and system architecture.
+Welcome to my GitHub portfolio! Below are some key projects that showcase my expertise in full-stack development, AI/ML engineering, and system architecture.
 
 ---
 
