@@ -41,26 +41,44 @@ Genius Reads combines document viewing with conversational AI to create an immer
 
 **Tech Stack**: Rust, Python, React, PostgreSQL, pgvector, LangGraph, OpenAI
 
-## 💪 GymMentorAI: Intelligent Workout Analytics
+---
 
-**AI-powered fitness tracking with advanced data visualization and insights**
+## 🥊 Brawl Bytes: Real-Time Multiplayer Fighting Game
 
-*[Project description appears to be incomplete - would you like to add more details about this project?]*
+**A fast-paced 2D fighting game with server-authoritative physics and real-time networking**
+
+Brawl Bytes is a web-based multiplayer brawler inspired by Super Smash Bros and Brawlhalla. Built with modern web technologies, it features smooth 60 FPS gameplay, real-time synchronization across multiple players, and a sophisticated game balance system powered by database-driven configuration.
+
+### Key Features
+- **Real-Time Multiplayer**: Low-latency Socket.io networking with up to 4 simultaneous players
+- **Server-Authoritative Physics**: Anti-cheat protection with client-side prediction and server reconciliation
+- **Dynamic Game Balance**: YAML-driven configuration system with live updates to character stats and game mechanics
+- **Progressive Web Architecture**: Monorepo structure with shared TypeScript types across frontend/backend
+- **Advanced Combat System**: Physics-based knockback, combo mechanics, and invincibility frame calculations
+- **Matchmaking & Progression**: Intelligent player matching with persistent user profiles and unlock system
+
+### 🎮 Play the Game
+**[Play Brawl Bytes Live](https://brawl-bytes-frontend.vercel.app)**
+
+### Demo Gameplay
+![Brawl Bytes Gameplay](/brawl-bytes-demo.gif)
+*[Placeholder for gameplay video/gif showing multiplayer combat]*
+
+**Tech Stack**: Phaser 3, TypeScript, Node.js, Socket.io, PostgreSQL, Prisma, Vite, Express.js
 
 ---
 
 ## 🛠️ Technical Expertise
 
 - **AI/ML**: LangGraph, OpenAI GPT-4, Vector Databases, Multi-Agent Systems
-- **Backend**: Python, FastAPI, Rust, PostgreSQL, WebSockets
-- **Frontend**: React, TypeScript, Tauri
+- **Backend**: Python, FastAPI, Rust, Node.js, PostgreSQL, WebSockets
+- **Frontend**: React, TypeScript, Phaser 3, Tauri
 - **Data**: pgvector, CSV Processing, Real-time Analytics
 - **Architecture**: Full-stack development, System design, Human-in-the-loop workflows
+- **Game Development**: Real-time networking, Physics simulation, Multiplayer systems
 
 ---
 
 ## 📫 Let's Connect
 
 I'm always interested in discussing AI engineering, technical architecture, and innovative project ideas. Feel free to explore my repositories and reach out!
-
-*Part of GauntletAI Cohort 2 - Building the future of AI applications*
