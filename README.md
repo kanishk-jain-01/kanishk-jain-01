@@ -16,7 +16,7 @@ Genius Reads combines document viewing with conversational AI to create an immer
 - **Semantic Search**: Vector similarity matching to discover related ideas across documents
 - **Multi-language Architecture**: Rust (Tauri) + Python + React + PostgreSQL with pgvector
 
-### Demo
+### Demo Video
 [![Genius Reads Demo](https://img.youtube.com/vi/ZiwywinU1I4/0.jpg)](https://www.youtube.com/watch?v=ZiwywinU1I4)
 
 **Tech Stack**: Rust, Python, React, PostgreSQL, pgvector, LangGraph, OpenAI
