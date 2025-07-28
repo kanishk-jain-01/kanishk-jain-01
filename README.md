@@ -6,6 +6,6 @@ Welcome to my Github Portfolio. Below are some of the projects I have spearheade
 
 ### ScioScribe: AI Agents That Help You Plan, Execute, and Analyze Experiments 
 
-### GymMentorAI:  
+### GymMentorAI: Track and Visualize Your Workout Data With AI 
 
-### SuiteCRM 
+### SuiteCRM: Modernizing a ~2 Million Line Legacy Codebase
