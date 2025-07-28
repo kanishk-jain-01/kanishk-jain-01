@@ -10,4 +10,6 @@ GeniusReads is an AI-powered PDF reader designed for technical learning that com
 
 ### ScioScribe: AI Agents That Help You Plan, Execute, and Analyze Experiments 
 
+ScioScribe is an AI-powered research co-pilot that revolutionizes scientific experiment design and data analysis through sophisticated multi-agent AI systems built with LangGraph and OpenAI GPT-4. The platform features three specialized agent teams that collaborate to guide researchers through experiment planning, conversational data cleaning, and automated visualization generation using a modern React/TypeScript frontend and FastAPI backend. The system implements human-in-the-loop workflows with real-time WebSocket communication, CSV versioning with AI change tracking, and an intelligent conversation interface that processes natural language queries into actionable data transformations. ScioScribe streamlines the entire research lifecycle from hypothesis formulation to publication-ready visualizations, empowering researchers to focus on insights rather than tedious data manipulation tasks.
+
 ### GymMentorAI: Track and Visualize Your Workout Data With AI 
