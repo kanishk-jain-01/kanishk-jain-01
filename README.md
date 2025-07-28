@@ -2,7 +2,9 @@
 
 Welcome to my Github Portfolio. Below are some of the projects I have spearheaded and am proud to share. 
 
-### Genius Reads: A Better Way to Read Technical Material 
+### Genius Reads: A Better Way to Read Technical Material
+
+GeniusReads is an AI-powered PDF reader designed for technical learning that combines document viewing with intelligent conversation and automatic knowledge extraction. Users can highlight text passages, ask questions about the content, and engage in AI-driven discussions that help deepen understanding of complex technical materials. The application automatically extracts key concepts from these learning sessions using LangGraph workflows and OpenAI, building a searchable knowledge base with vector similarity matching for discovering related ideas across documents. Built with a sophisticated multi-language architecture using Rust (Tauri) for performance, Python for AI processing, React for the UI, and PostgreSQL with pgvector for semantic search capabilities.
 
 [![Watch the video](https://img.youtube.com/vi/ZiwywinU1I4/0.jpg)](https://www.youtube.com/watch?v=ZiwywinU1I4)
 
