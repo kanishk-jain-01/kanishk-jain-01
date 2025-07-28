@@ -2,10 +2,10 @@
 
 Welcome to my Github Portfolio. Below are some of the projects I have worked on and proud to share. 
 
-## Genius Reads 
+## Genius Reads: A Better Way to Read Technical Material 
 
-## ScioScribe 
+## ScioScribe: AI Agents That Help You Plan, Execute, and Analyze Experiments 
 
-## GymMentorAI 
+## GymMentorAI:  
 
 ## SuiteCRM 
