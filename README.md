@@ -4,25 +4,6 @@ Welcome to my GitHub portfolio! I'm passionate about building AI-powered applica
 
 ---
 
-## 📚 Genius Reads: AI-Powered Technical Learning Platform
-
-**An intelligent PDF reader that transforms how you learn from technical documents**
-
-Genius Reads combines document viewing with conversational AI to create an immersive learning experience. Users can highlight passages, ask contextual questions, and engage in AI-driven discussions that deepen understanding of complex technical materials.
-
-### Key Features
-- **Interactive Learning**: Highlight text and ask questions for instant AI explanations
-- **Knowledge Extraction**: Automatic concept extraction using LangGraph workflows
-- **Semantic Search**: Vector similarity matching to discover related ideas across documents
-- **Multi-language Architecture**: Rust (Tauri) + Python + React + PostgreSQL with pgvector
-
-### Demo Video
-[![Genius Reads Demo](https://img.youtube.com/vi/ZiwywinU1I4/0.jpg)](https://www.youtube.com/watch?v=ZiwywinU1I4)
-
-**Tech Stack**: Rust, Python, React, PostgreSQL, pgvector, LangGraph, OpenAI
-
----
-
 ## 🔬 ScioScribe: AI Research Co-Pilot
 
 **Multi-agent AI system that guides researchers through the entire experiment lifecycle**
@@ -39,6 +20,23 @@ ScioScribe revolutionizes scientific research with three specialized AI agent te
 **Tech Stack**: React, TypeScript, FastAPI, LangGraph, OpenAI GPT-4, WebSockets
 
 ---
+
+## 📚 Genius Reads: AI-Powered Technical Learning Platform
+
+**An intelligent PDF reader that transforms how you learn from technical documents**
+
+Genius Reads combines document viewing with conversational AI to create an immersive learning experience. Users can highlight passages, ask contextual questions, and engage in AI-driven discussions that deepen understanding of complex technical materials.
+
+### Key Features
+- **Interactive Learning**: Highlight text and ask questions for instant AI explanations
+- **Knowledge Extraction**: Automatic concept extraction using LangGraph workflows
+- **Semantic Search**: Vector similarity matching to discover related ideas across documents
+- **Multi-language Architecture**: Rust (Tauri) + Python + React + PostgreSQL with pgvector
+
+### Demo Video
+[![Genius Reads Demo](https://img.youtube.com/vi/ZiwywinU1I4/0.jpg)](https://www.youtube.com/watch?v=ZiwywinU1I4)
+
+**Tech Stack**: Rust, Python, React, PostgreSQL, pgvector, LangGraph, OpenAI
 
 ## 💪 GymMentorAI: Intelligent Workout Analytics
 
