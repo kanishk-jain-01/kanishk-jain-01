@@ -75,9 +75,3 @@ Brawl Bytes is a web-based multiplayer brawler inspired by Super Smash Bros and 
 - **Data**: pgvector, CSV Processing, Real-time Analytics
 - **Architecture**: Full-stack development, System design, Human-in-the-loop workflows
 - **Game Development**: Real-time networking, Physics simulation, Multiplayer systems
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing AI engineering, technical architecture, and innovative project ideas. Feel free to explore my repositories and reach out!
