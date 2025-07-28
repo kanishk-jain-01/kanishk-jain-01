@@ -1,6 +1,6 @@
 ## AI Engineer | GauntletAI Cohort 2 
 
-Welcome to my Github Portfolio. Below are some of the projects I have worked on and proud to share. 
+Welcome to my Github Portfolio. Below are some of the projects I have spearheaded and am proud to share. 
 
 ### Genius Reads: A Better Way to Read Technical Material 
 
