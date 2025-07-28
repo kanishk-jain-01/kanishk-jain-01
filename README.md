@@ -17,6 +17,9 @@ ScioScribe revolutionizes scientific research with three specialized AI agent te
 - **Version Control**: CSV versioning with AI-powered change tracking
 - **Auto-Visualization**: Publication-ready charts and graphs generated automatically
 
+## GIF 
+![ScioScribe](/Scioscribe.gif)
+
 **Tech Stack**: React, TypeScript, FastAPI, LangGraph, Frontier LLM Integration, WebSockets
 
 ---
