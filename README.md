@@ -62,7 +62,6 @@ Brawl Bytes is a web-based multiplayer brawler inspired by Super Smash Bros and 
 
 ### Demo Gameplay
 ![Brawl Bytes Gameplay](/brawl-bytes-demo.gif)
-*[Placeholder for gameplay video/gif showing multiplayer combat]*
 
 **Tech Stack**: Phaser 3, TypeScript, Node.js, Socket.io, PostgreSQL, Prisma, Vite, Express.js
 
