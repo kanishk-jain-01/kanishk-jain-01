@@ -1,4 +1,4 @@
-# 🚀 AI Engineer | GauntletAI Cohort 2
+# 🚀 Kanishk Jain | AI Engineer 
 
 Welcome to my GitHub portfolio! Below are some key projects that I worked on during Gauntlet AI and that I am proud to showcase.
 
